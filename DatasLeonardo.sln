@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasLeonardo.ConsoleApp", "DatasLeonardo.ConsoleApp\DatasLeonardo.ConsoleApp.csproj", "{CA0040F8-1D1E-4238-90F9-13D5BF547203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasLeonardo.Test", "DatasLeonardo.Test\DatasLeonardo.Test.csproj", "{6ABCBD00-5B73-4275-A3F5-F5DC72560FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0040F8-1D1E-4238-90F9-13D5BF547203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0040F8-1D1E-4238-90F9-13D5BF547203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0040F8-1D1E-4238-90F9-13D5BF547203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0040F8-1D1E-4238-90F9-13D5BF547203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABCBD00-5B73-4275-A3F5-F5DC72560FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABCBD00-5B73-4275-A3F5-F5DC72560FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABCBD00-5B73-4275-A3F5-F5DC72560FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABCBD00-5B73-4275-A3F5-F5DC72560FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {682F3C63-D5AC-4589-BF5A-BFCEBF39477F}
+	EndGlobalSection
+EndGlobal
